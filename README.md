@@ -4,7 +4,7 @@
 >
 >🌱 I’m currently learning Python and its libraries
 >
->📫 How to reach me via contacts in Bio
+>📫 reach me via contacts in bio
 >
 
 <!--
