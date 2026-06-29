@@ -1,7 +1,7 @@
-👋 Hello, I'm @suBhan-youSaf
- 👀 Pationate about Data Science
- 🌱 I’m currently learning Python and its libraries
- 📫 How to reach me via contacts in Bio
+>👋 Hello, I'm @suBhan-youSaf
+>👀 Pationate about Data Science
+>🌱 I’m currently learning Python and its libraries
+>📫 How to reach me via contacts in Bio
 
 <!--
 **suBhan-youSaf/suBhan-youSaf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
